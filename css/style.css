@@ -34,13 +34,13 @@ body {
     overflow-y: hidden; }
 
 a {
-  color: #CA82F8;
+  color: #000066;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover {
     text-decoration: underline;
-    color: #CA82F8; }
+    color: #000066; }
   a:focus, a:active {
     outline: none; }
 
