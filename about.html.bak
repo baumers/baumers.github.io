@@ -60,10 +60,9 @@
             <div class="col-md-12">
               <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="supplementarymaterial.html">Supplementary Material</a></li>
-                <li><a href="publications.html">Publications</a></li>
-                <li><a href="blog.html">Blog</a></li>
                 <li class="active"><a href="about.html">About</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="supplementarymaterial.html">Supplementary Material</a></li>
               </ul>
             </div>
           </div>
@@ -350,5 +349,6 @@
     <script src="js/magnific-popup-options.js"></script>
     <!-- Main JS (Do not remove) -->
     <script src="js/main.js"></script>
+    
   </body>
 </html>
