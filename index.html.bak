@@ -92,7 +92,7 @@
                 alt="html5 bootstrap template by colorlib.com"> </div>
           </div>
           <div class="row">
-            <div class="col-md-4 animate-box">
+            <div class="col-md-12 animate-box">
               <p>I’m a Virginia girl and adopted Texan currently living in Seattle, Washington.
                 By day I’m a neuroscientist, and any parts of my brain not destroyed by having
                 50 Stack Overflow tabs open at any given time are used for: convincing myself
