@@ -60,10 +60,9 @@
             <div class="col-md-12">
               <ul>
                 <li><a href="index.html">Home</a></li>
-                <li><a href="supplementarymaterial.html">Supplementary Material</a></li>
-                <li class="active"><a href="publications.html">Publications</a></li>
-                <li><a href="blog.html">Blog</a></li>
                 <li><a href="about.html">About</a></li>
+                <li class="active"><a href="publications.html">Publications</a></li>
+                <li><a href="supplementarymaterial.html">Supplementary Material</a></li>
               </ul>
             </div>
           </div>
