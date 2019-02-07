@@ -81,18 +81,23 @@
           </div>
         </div>
       </header>
-        <div class="row">
-            <div class="col-md-12">
+      <div id="colorlib-services">
+        <div class="container">
+          <div class="row text-center">
+            <h2 class="bold"> </h2>
+          </div>
+          <div class="row">
+            <div class="col-md-10">
               <div class="services-flex">
                 <div class="one-third">
                   <div class="row">
-                    <div class="col-md-12 col-md-offset-0 animate-box intro-heading">
+                    <div class="col-md-10 col-md-offset-0 animate-box intro-heading">
                       <span>Publications</span>
-                      <p>Here is a list of my publications.</p>
+                      <h2>A list of past publications..</h2>
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-10">
                       <div class="services animate-box">
                         <h3>1 - High Quality Theme</h3>
                         <p>Even the all-powerful Pointing has no control about
@@ -120,11 +125,11 @@
                     </div>
                   </div>
                 </div>
-                <div class="one-forth services-img" style="background-image: url(images/services-img-1.jpg);">
-                </div>
               </div>
             </div>
           </div>
+        </div>
+      </div>
       <footer>
         <div id="footer">
           <div class="container">
