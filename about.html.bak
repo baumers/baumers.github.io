@@ -103,14 +103,27 @@
           <div class="row text-center">
             <h2 class="bold"> </h2>
           </div>
-          <div class="row row-padded-bottom">
-            <div class="col-md-5 animate-box"> <img class="img-responsive about-img"
+          <div class="row">
+            <div class="col-md-5 animate-box">
+              <div class="owl-carousel3">
+                <div class="item"> <img class="img-responsive about-img" src="images/about.jpg"
 
-                src="images/about.jpg" alt="html5 bootstrap template by colorlib.com">
+                    alt="html5 bootstrap template by colorlib.com"> </div>
+                <div class="item"> <img class="img-responsive about-img" src="images/about-2.jpg"
+
+                    alt="html5 bootstrap template by colorlib.com"> </div>
+              </div>
             </div>
             <div class="col-md-6 col-md-push-1 animate-box">
               <div class="about-desc">
-                <h2><span>Sarah</span><span>Baum Miller</span></h2>
+                <div class="owl-carousel3">
+                  <div class="item">
+                    <h2><span>Sarah</span><span>Baum Miller</span></h2>
+                  </div>
+                  <div class="item">
+                    <h2><span>Perpetually Curious</span><span>Neuroscientist</span></h2>
+                  </div>
+                </div>
                 <div class="desc">
                   <div class="rotate">
                     <h2 class="heading">About</h2>
@@ -123,33 +136,8 @@
                     out my current projects and past publications. I'm actively
                     looking for my next adventure! If you think I might be a
                     great addition to your team, you can find my resume <a href="#">here</a>.</p>
-                  <p><a href="publications.html" class="btn btn-primary btn-outline">View
-                      My Publications</a></p>
                 </div>
               </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
-            </div>
-            <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
-            </div>
-            <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
             </div>
           </div>
         </div>
