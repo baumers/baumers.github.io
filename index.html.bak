@@ -66,23 +66,6 @@
               </ul>
             </div>
           </div>
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="head-title">Works</h2>
-              <a href="images/work-1.jpg" class="gallery image-popup-link text-center"
-
-                style="background-image: url(images/work-1.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-2.jpg" class="gallery image-popup-link text-center"
-
-                style="background-image: url(images/work-2.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-3.jpg" class="gallery image-popup-link text-center"
-
-                style="background-image: url(images/work-3.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-4.jpg" class="gallery image-popup-link text-center"
-
-                style="background-image: url(images/work-4.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> </div>
-          </div>
         </div>
       </div>
     </nav>
@@ -110,25 +93,12 @@
           </div>
           <div class="row">
             <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
+              <p>I’m a Virginia girl and adopted Texan currently living in Seattle, Washington.
+                By day I’m a neuroscientist, and any parts of my brain not destroyed by having
+                50 Stack Overflow tabs open at any given time are used for: convincing myself
+                I’m not going to die every time I run, chocolate, coffee, memes, and of course, books.
+              	Preferably anything by Shirley Jackson or Stephen King with a giant cup of tea.</p>
             </div>
-            <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
-            </div>
-            <div class="col-md-4 animate-box">
-              <p>The Big Oxmox advised her not to do so, because there were
-                thousands of bad Commas, wild Question Marks and devious
-                Semikoli, but the Little Blind Text didn’t listen. She packed
-                her seven versalia, put her initial into the belt and made
-                herself on the way.</p>
             </div>
           </div>
         </div>
