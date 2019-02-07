@@ -21,8 +21,7 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700"
-
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700"
       rel="stylesheet">
     <!-- Animate.css -->
     <link rel="stylesheet" href="css/animate.css">
@@ -48,10 +47,8 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row">
             <div class="col-md-12">
-              <div class="form-group"> <input class="form-control" id="search"
-
-                  placeholder="Enter any key to search..." type="text"> <button
-
+              <div class="form-group"> <input class="form-control" id="search"
+                  placeholder="Enter any key to search..." type="text"> <button
                   type="submit" class="btn btn-primary"><i class="icon-search3"></i></button>
               </div>
             </div>
@@ -71,17 +68,13 @@
           <div class="row">
             <div class="col-md-12">
               <h2 class="head-title">Works</h2>
-              <a href="images/work-1.jpg" class="gallery image-popup-link text-center"
-
+              <a href="images/work-1.jpg" class="gallery image-popup-link text-center"
                 style="background-image: url(images/work-1.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-2.jpg" class="gallery image-popup-link text-center"
-
+              </a> <a href="images/work-2.jpg" class="gallery image-popup-link text-center"
                 style="background-image: url(images/work-2.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-3.jpg" class="gallery image-popup-link text-center"
-
+              </a> <a href="images/work-3.jpg" class="gallery image-popup-link text-center"
                 style="background-image: url(images/work-3.jpg);"> <span><i class="icon-search3"></i></span>
-              </a> <a href="images/work-4.jpg" class="gallery image-popup-link text-center"
-
+              </a> <a href="images/work-4.jpg" class="gallery image-popup-link text-center"
                 style="background-image: url(images/work-4.jpg);"> <span><i class="icon-search3"></i></span>
               </a> </div>
           </div>
@@ -137,8 +130,7 @@
                           <li><a href="https://beyondthetodolist.com/time-laura-vanderkam-on-perspective-and-stewardship-of-time-bttdl221/">Beyond
                               the To Do List Ep.221 - Time Stewardship</a></li>
                           <li><a href="https://www.npr.org/2018/08/09/637163515/pop-culture-punching-bags">Pop
-                              Culture Happy Hour - Pop Culture
-                              Punching Bags</a></li>
+                              Culture Happy Hour - Pop Culture Punching Bags</a></li>
                           <li><a href="https://www.marketplace.org/2018/05/15/tech/make-me-smart-kai-and-molly/63-take-your-data-and-go-home">Make
                               Me Smart 63 - Take your data and go home.</a></li>
                         </ul>
@@ -148,8 +140,10 @@
                       <div class="services animate-box">
                         <h3>2 - Articles</h3>
                         <ul>
-                          <li><a href="https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788?fbclid=IwAR24cp8lw48q8c7pKwdcwvXyoUU7-FMcyP3xy_FLVL7hIzEi6SGXK9PRz7Q">So, about this Googler’s manifesto. - Medium</a></li>
-                          <li><a href="http://thefederalist.com/2014/01/17/the-death-of-expertise/">The Death of Expertise - The Federalist</a></li>
+                          <li><a href="https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788?fbclid=IwAR24cp8lw48q8c7pKwdcwvXyoUU7-FMcyP3xy_FLVL7hIzEi6SGXK9PRz7Q">So,
+                              about this Googler’s manifesto. - Medium</a></li>
+                          <li><a href="http://thefederalist.com/2014/01/17/the-death-of-expertise/">The
+                              Death of Expertise - The Federalist</a></li>
                         </ul>
                       </div>
                       <div class="services animate-box">
@@ -201,18 +195,6 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-4 col-pb-sm">
-                <h2>Newsletter</h2>
-                <p>A small river named Duden flows by their place and supplies
-                  it with the necessary regelialia</p>
-                <div class="subscribe text-center">
-                  <div class="form-group"> <input class="form-control text-center"
-
-                      placeholder="Enter Email address" type="text"> <input value="Subscribe"
-
-                      class="btn btn-primary btn-custom" type="submit"> </div>
-                </div>
-              </div>
             </div>
             <div class="row">
               <div class="col-md-12 text-center">
@@ -220,8 +202,7 @@
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                   Copyright ©
                   <script>document.write(new Date().getFullYear());</script> All
-                  rights reserved | This template is made with by <a href="https://colorlib.com"
-
+                  rights reserved | This template is made with by <a href="https://colorlib.com"
                     target="_blank">Colorlib</a>
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
