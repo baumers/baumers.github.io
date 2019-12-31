@@ -136,6 +136,7 @@
                           <li>Victoria, B.C.</li>
                           <li>Whidbey Island, Washington</li>
                           <li>Snæfellsnes Peninsula, Iceland</li>
+                          <li>Hamburg, Germany</li>
                         </ul>
                       </div>
                     </div>
@@ -183,5 +184,6 @@
     <script src="js/magnific-popup-options.js"></script>
     <!-- Main JS (Do not remove) -->
     <script src="js/main.js"></script>
+    
   </body>
 </html>
