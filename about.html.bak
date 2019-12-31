@@ -97,78 +97,77 @@
 
                     alt="html5 bootstrap template by colorlib.com"> </div>
               </div>
-              <div class="col-md-6 col-md-push-1 animate-box">
-                <div class="about-desc">
-                  <div class="owl-carousel3">
-                    <div class="item">
-                      <h2><span>Sarah</span><span>Baum Miller</span></h2>
-                    </div>
-                    <div class="item">
-                      <h2><span>Perpetually Curious</span><span>Scientist</span></h2>
-                    </div>
+            </div>
+            <div class="col-md-6 col-md-push-1 animate-box">
+              <div class="about-desc">
+                <div class="owl-carousel3">
+                  <div class="item">
+                    <h2><span>Sarah</span><span>Baum Miller</span></h2>
                   </div>
-                  <div class="desc">
-                    <div class="rotate">
-                      <h2 class="heading">About</h2>
-                    </div>
-                    <p>Hello! I'm a traditional neuroscientist by training and
-                      love using research as a tool to better understand the
-                      world around us. My research projects connect across
-                      linguistics, computer science, and electrical engineering
-                      to answer research questions. In particular I'm interested
-                      in individual differences in the way we understand and
-                      process information. Learn more about my work by checking
-                      out my past publications. In 2019 I started a new
-                      adventure and left academia! I'm currently a Quantitative
-                      User Experience Researcher, where I can apply my
-                      background in perception to making technology more
-                      inclusive and accessible to all users. You can find my
-                      resume <a href="https://baumers.github.io/BaumMiller_Resume.pdf"
+                  <div class="item">
+                    <h2><span>Perpetually Curious</span><span>Scientist</span></h2>
+                  </div>
+                </div>
+                <div class="desc">
+                  <div class="rotate">
+                    <h2 class="heading">About</h2>
+                  </div>
+                  <p>Hello! I'm a traditional neuroscientist by training and
+                    love using research as a tool to better understand the world
+                    around us. My research projects connect across linguistics,
+                    computer science, and electrical engineering to answer
+                    research questions. In particular I'm interested in
+                    individual differences in the way we understand and process
+                    information. Learn more about my work by checking out my
+                    past publications. In 2019 I started a new adventure and
+                    left academia! I'm currently a Quantitative User Experience
+                    Researcher, where I can apply my background in perception to
+                    making technology more inclusive and accessible to all
+                    users. You can find my resume <a href="https://baumers.github.io/BaumMiller_Resume.pdf"
 
-                        target="_blank">here</a>.</p>
-                    <p><a href="publications.html" class="btn btn-primary btn-outline">View
-                        My Publications</a></p>
-                  </div>
+                      target="_blank">here</a>.</p>
+                  <p><a href="publications.html" class="btn btn-primary btn-outline">View
+                      My Publications</a></p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <footer>
-          <div id="footer">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                  <p> ©
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright ©
-                    <script>document.write(new Date().getFullYear());</script>
-                    All rights reserved | This template is made with by <a href="https://colorlib.com"
+      </div>
+      <footer>
+        <div id="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 text-center">
+                <p> ©
+                  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                  Copyright ©
+                  <script>document.write(new Date().getFullYear());</script> All
+                  rights reserved | This template is made with by <a href="https://colorlib.com"
 
-                      target="_blank">Colorlib</a>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                  </p>
-                </div>
+                    target="_blank">Colorlib</a>
+                  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                </p>
               </div>
             </div>
           </div>
-        </footer>
-        <!-- jQuery -->
-        <script src="js/jquery.min.js"></script>
-        <!-- jQuery Easing -->
-        <script src="js/jquery.easing.1.3.js"></script>
-        <!-- Bootstrap -->
-        <script src="js/bootstrap.min.js"></script>
-        <!-- Waypoints -->
-        <script src="js/jquery.waypoints.min.js"></script>
-        <!-- Owl Carousel -->
-        <script src="js/owl.carousel.min.js"></script>
-        <!-- Magnific Popup -->
-        <script src="js/jquery.magnific-popup.min.js"></script>
-        <script src="js/magnific-popup-options.js"></script>
-        <!-- Main JS (Do not remove) -->
-        <script src="js/main.js"></script> </div>
-    </div>
+        </div>
+      </footer>
+      <!-- jQuery -->
+      <script src="js/jquery.min.js"></script>
+      <!-- jQuery Easing -->
+      <script src="js/jquery.easing.1.3.js"></script>
+      <!-- Bootstrap -->
+      <script src="js/bootstrap.min.js"></script>
+      <!-- Waypoints -->
+      <script src="js/jquery.waypoints.min.js"></script>
+      <!-- Owl Carousel -->
+      <script src="js/owl.carousel.min.js"></script>
+      <!-- Magnific Popup -->
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <script src="js/magnific-popup-options.js"></script>
+      <!-- Main JS (Do not remove) -->
+      <script src="js/main.js"></script> </div>
     
   </body>
 </html>
